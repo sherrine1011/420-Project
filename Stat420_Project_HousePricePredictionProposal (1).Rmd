@@ -8,9 +8,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Team
-- `Sherrine Vanessa Yuwono`
-- `Shawn Patel`
-- `Abhay Singh`
+- `Sherrine Vanessa Yuwono, syuwono2`
+- `Shawn Patel, sjpatel7`
+- `Abhay Singh, abhays3`
 
 ## Project Introductory Info
 
@@ -19,9 +19,9 @@ Therefore, it is important to predict housing prices without bias to help both t
 
 ## Dataset Info
 
-This project uses an [open source dataset](https://dasl.datadescription.com/datafile/housing-prices-ge19/?_sfm_methods=Multiple+Regression&_sfm_cases=1104+59943) from [DASL Data and Story Library](http://lib.stat.cmu.edu/DASL/), which include 16 explanatory features for predicting prices and 1,735 entries of housing sales in Ney York, USA. 
+This project uses an [open source dataset](https://dasl.datadescription.com/datafile/housing-prices-ge19/?_sfm_methods=Multiple+Regression&_sfm_cases=1104+59943) from [DASL Data and Story Library](http://lib.stat.cmu.edu/DASL/), which includes 16 explanatory features for predicting prices and 1,735 entries of housing sales in New York, USA. 
 
-For our project, we shall be considering 8 below features as predictors for model with `Price` value of the house as response.
+For our project, we shall be considering the 8 below features as predictors for modeling the `Price` value of the house as the response.
 
 - new.construct  (Factor predictor)
 - Fuel Type (Categorical Predictor)
@@ -33,7 +33,7 @@ For our project, we shall be considering 8 below features as predictors for mode
 - Rooms (Numerical Predictor)
 
 ## Our Goal 
-Our goal is to use different combination of predictor and apply regression models () to predict the house prices in King County, USA. 
+Our goal is to use different combinations of predictors and apply regression models () to predict the house prices in King County, USA. 
 `TODO: Have to fill more info`
 We hope to gain insight on which variables impact housing valuation the most significantly, as well as any possible interaction between the attributes on the pricing. Analysis of this dataset may be helpful in the decision process of purchasing or selling properties. Our goal is to get a better sense for comparing properties in the housing market.
 
